@@ -14,3 +14,4 @@ function happyCustomHolidayTo(holiday, name) {
 function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`
 }
+//might have to do something with the adding of strings to accept both parameters
